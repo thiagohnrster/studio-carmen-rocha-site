@@ -1,0 +1,22 @@
+{
+  "name": "rcarmencamuflagem",
+  "version": "1.0.0",
+  "description": "Website do Studio Carmen Rocha. Camuflagem Estética, Microagulhamento e outros tratamentos estéticos. Renove sua autoestima!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Celestino",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-concat-css": "^0.3.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "jit-grunt": "^0.10.0",
+    "jquery": "^3.5.1",
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {}
+}
